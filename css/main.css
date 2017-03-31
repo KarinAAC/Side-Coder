@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  font-family: "Arial";
+  font-size: 80% ;
+
+}
+#contenedor-post{
+  width: 30%;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid #990000;
+}
+#impresion{
+  margin: 0 auto;
+  width: 30%;
+  height:30%;
+  border: 1px solid #990000;
+}
+#autor{
+  margin: 0 auto;
+  border: 1px solid #990000;
+}
